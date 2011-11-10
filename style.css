@@ -1,0 +1,13 @@
+.widget_epicwin_widget { padding: 5px 5px 10px; border: 1px solid #ccc; float: left; }
+.widget_epicwin_widget table, form { margin:0; border: 0; }
+.widget_epicwin_widget table td { padding: 0; }
+.widget_epicwin_widget input { float: right; width: 100px; margin: 0; }
+.widget_epicwin_widget label { float: left; width: 40px; margin: 5px 0 10px; }
+.widget_epicwin_widget button { float: right; width: 108px; margin-top: 5px; }
+.errors { clear: both; padding-top: 10px; }
+.success { border: 1px solid #0dbf00; background-color: #065600; text-align: left; color: #fff; float: left; width: auto; padding: 5px; margin: 10px 0 0;}
+.error { margin-bottom: 5px; border: 1px solid #b20000; background-color: red; color: #fff; text-align: center; }
+div#unsubscribe { text-align: justify; border: 2px solid #660000; background: #fff; width: 200px; padding: 15px; position: absolute; top: 30%; left: 45%; -moz-border-radius: 10px; -webkit-border-radius: 10px; -moz-box-shadow: 0px 0px 15px #660000; -webkit-box-shadow: 0px 0px 15px #660000; }
+div#unsubscribe p { color: #000000; }
+a.close { border: 1px solid #d40000; background: #660000; color: #fff; padding: 5px; margin-left: 75px; }
+a.close:hover { text-decoration: none; }
